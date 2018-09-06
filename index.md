@@ -3,7 +3,7 @@
 
 # Leah Demas' first CS193 Lab
 
-##What I like about CS193:
+## What I like about CS193:
 - It's going to teach me good information
 - It's once a week
 - It's fun
