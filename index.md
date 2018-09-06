@@ -1,3 +1,11 @@
+#Leah Demas' first CS193 Lab
+
+##What I like about CS193:
+- It's going to teach me good information
+- It's once a week
+- It's fun
+- The TAs are awesome
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
