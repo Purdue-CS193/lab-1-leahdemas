@@ -1,7 +1,7 @@
 
 ## Welcome to GitHub Pages
 
-#Leah Demas' first CS193 Lab
+# Leah Demas' first CS193 Lab
 
 ##What I like about CS193:
 - It's going to teach me good information
